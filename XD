@@ -1,0 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/python3.12
+ 
+import os 
+os.system('clear')
+import xxx
+ 
